@@ -38,10 +38,12 @@ The feature is to generate quick answers which will then let the user know if th
 
 During this application development, there were certain problems that arose which delayed the application to take more time to be developed and thus took a long time which was unexpected.
 
-**Challenge:** linking code to diffrent screens 
+**Challenge:** linking code to diffrent screens
+
 **How i solved it:** Could not rectify it.
 
 **Challenge:** Push and commit the project to GitHub
+
 **How i solved it:** Youtube Video Tutorials were useful in understanding the content
 
 ## Future Work
@@ -49,7 +51,9 @@ During this application development, there were certain problems that arose whic
 **Below are upcoming feature updates that I think will improve user experience in the app:**
 
 **1:** App reminders should encourage users to keep using the app every day.
+
 **2:** Giving users the ability to save and back up data
+
 **3:** Creating a users' community within the app where they can exchange new suggestions.
 
 
